@@ -1,5 +1,11 @@
 # @neverusethis/plugin-a
 
+## 3.1.0
+
+### Minor Changes
+
+- 2957a78: lajdflaskdf alsdfkjasldf asldkfjasldf
+
 ## 3.0.0
 
 ### Major Changes

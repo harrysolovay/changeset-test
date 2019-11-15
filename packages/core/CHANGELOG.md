@@ -1,5 +1,11 @@
 # @neverusethis/core
 
+## 5.1.0
+
+### Minor Changes
+
+- 2957a78: lajdflaskdf alsdfkjasldf asldkfjasldf
+
 ## 5.0.0
 
 ### Major Changes
