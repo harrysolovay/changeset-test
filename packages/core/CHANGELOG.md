@@ -1,5 +1,11 @@
 # @neverusethis/core
 
+## 5.0.0
+
+### Major Changes
+
+- bb84171: lkajdflasjkdflaskdjf aksdkfjaskdfjasd
+
 ## 4.0.0
 
 ### Major Changes

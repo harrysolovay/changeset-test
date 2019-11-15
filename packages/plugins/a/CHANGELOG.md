@@ -1,5 +1,11 @@
 # @neverusethis/plugin-a
 
+## 3.0.0
+
+### Major Changes
+
+- bb84171: lkajdflasjkdflaskdjf aksdkfjaskdfjasd
+
 ## 2.1.0
 
 ### Minor Changes
