@@ -1,5 +1,16 @@
 # @neverusethis/core
 
+## 4.0.0
+
+### Major Changes
+
+- f53315a: kalksdjfalkdjfadf
+- 5d7defe: this better work!
+
+### Minor Changes
+
+- 50dad45: kajsdflkjasdflkajsdflkajsdlfksdf
+
 ## 3.0.0
 
 ### Major Changes

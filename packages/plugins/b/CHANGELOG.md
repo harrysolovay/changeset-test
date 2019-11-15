@@ -1,5 +1,16 @@
 # @neverusethis/plugin-b
 
+## 1.2.0
+
+### Minor Changes
+
+- 50dad45: kajsdflkjasdflkajsdflkajsdlfksdf
+- 5d7defe: this better work!
+
+### Patch Changes
+
+- f53315a: kalksdjfalkdjfadf
+
 ## 1.1.0
 
 ### Minor Changes

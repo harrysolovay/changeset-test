@@ -1,5 +1,13 @@
 # @neverusethis/plugin-a
 
+## 2.1.0
+
+### Minor Changes
+
+- f53315a: kalksdjfalkdjfadf
+- 50dad45: kajsdflkjasdflkajsdflkajsdlfksdf
+- 5d7defe: this better work!
+
 ## 2.0.0
 
 ### Major Changes
