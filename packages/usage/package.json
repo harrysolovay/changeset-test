@@ -1,0 +1,12 @@
+{
+  "name": "@neverusethis/cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@neverusethis/core": "1.0.0",
+    "@neverusethis/plugin-a": "1.0.0",
+    "@neverusethis/plugin-b": "1.0.0"
+  }
+}
