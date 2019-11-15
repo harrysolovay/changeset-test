@@ -1,1 +1,1 @@
-module.exports = "plugin-b"
+module.exports = "plugin-b yo yo yo"
