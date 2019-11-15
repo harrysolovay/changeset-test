@@ -1,5 +1,5 @@
 {
-  "name": "@neverusethis/cli",
+  "name": "@neverusethis/usage",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
