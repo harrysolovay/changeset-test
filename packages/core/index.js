@@ -1,1 +1,1 @@
-module.exports = "core"
+module.exports = "core yo"

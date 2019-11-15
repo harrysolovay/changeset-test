@@ -11,5 +11,8 @@
   ],
   "devDependencies": {
     "@changesets/cli": "^2.4.0"
+  },
+  "scripts": {
+    "release": "changeset publish && git push --folow-tags"
   }
 }
