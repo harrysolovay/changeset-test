@@ -1,11 +1,12 @@
-name: release
+name: changeset
 on:
   push:
     branches:
-      - master
+      - '!master'
+      - '*'
 jobs:
-  release:
-    name: release
+  changeset:
+    name: changeset
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
@@ -16,8 +17,7 @@ jobs:
           node-version: 10.x
       - name: Install Dependencies
         run: yarn
-      - name: Publish to NPM
-        run: yarn release && git push --follow-tags
+      - name: Create Release Pull Request
+        uses: changesets/action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
