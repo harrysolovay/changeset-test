@@ -1,5 +1,11 @@
 # @neverusethis/core
 
+## 6.0.0
+
+### Major Changes
+
+- 3ff1e5c: askdf asdf asdf asdf asdf
+
 ## 5.1.0
 
 ### Minor Changes

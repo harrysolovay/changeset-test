@@ -1,5 +1,11 @@
 # @neverusethis/plugin-b
 
+## 2.2.0
+
+### Minor Changes
+
+- 3ff1e5c: askdf asdf asdf asdf asdf
+
 ## 2.1.0
 
 ### Minor Changes
